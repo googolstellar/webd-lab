@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.heading{
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 70px;
+    color: #444444;  
+    padding: 50px;
+    text-align: center;
+}
+img{
+    position: relative;
+    width: 130px;
+    height: 130px;
+}
+table{
+    border-collapse: collapse;
+    text-align: center;
+    width: 99%;
+    height: auto;
+}
+th{
+    background: #ecf0f1;;
+}
+tr{
+    height: 35px;
+}
+table, td, th{
+    border: 2px solid black;
+}

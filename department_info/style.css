@@ -1,0 +1,35 @@
+body{
+    font-family: 'Helvetica', 'Arial', sans-serif;
+    background-color:rgb(219, 228, 235);
+}
+a:link{
+    color: rgb(228, 179, 19);
+}
+a:visited{
+    color:teal;
+}
+a:hover{
+    color:#444444;
+}
+dt{
+    text-align: center; 
+     color: #444444;  
+     font-size: 50px;  
+}
+
+dd, ol, ul, a{ 
+    font-size: 25px; 
+}
+ol{
+    list-style-type: lower-greek;
+}
+
+ul{
+   list-style-type: circle;
+}
+
+img{
+    width: 190px;
+    height: auto;
+    float: top;
+}
